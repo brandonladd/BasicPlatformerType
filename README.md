@@ -1,7 +1,6 @@
 # Basic Platformer
 Basic Platformer is a simple tile-based platformer game built using the Pygame library from Python. The user climbs through multiple levels to get to the end of the game.
 
-![dashgiffy]()
 
 ## Features
 - Tile-based design

@@ -32,4 +32,3 @@ This program relies on the following dependencies:
 ## Works Cited
 - The video used for inspiration: https://www.youtube.com/watch?v=Ongc4EVqRjo&list=PLjcN1EyupaQnHM1I9SmiXfbT6aG4ezUvu&ab_channel=CodingWithRuss
 - Used Pygame's website and documentation: https://www.pygame.org/docs/
-- CodingWithRuss's github: https://github.com/russs123
